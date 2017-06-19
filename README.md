@@ -9,4 +9,4 @@ Over time, I plan to add sample implementations for most (if not all) of these i
 - Sieve of Eratosthenes
 - Pollard's rho algorithm (Integer factorization)
 - BK trees
-
+- [Voronoi Diagram](http://blog.alexbeutel.com/332/interactive-voronoi-diagrams-with-webgl/)
